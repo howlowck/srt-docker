@@ -1,4 +1,4 @@
-# SRT (Docker)
+# SRT (Dockerized)
 
 This is a dockerized version of [Haivision/srt Repo](https://github.com/Haivision/srt).  Hopefully, it will be merged into the main source.
 
