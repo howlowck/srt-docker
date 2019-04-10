@@ -1,4 +1,4 @@
-# SRT (Docker)
+# SRT (Dockerized)
 
 This is a dockerized version of [Haivision/srt Repo](https://github.com/Haivision/srt).  Hopefully, it will be merged into the main source.
 
@@ -12,7 +12,7 @@ You'll need to open ports and set up data volume to fully utilize the sample app
 
 ## Advanced
 If you are building on top of srt, you can use this image as a base image.
-The srt directory is `/etc/app/srt`.
+The srt directory inside the container is `/etc/app/srt`.
 
 ## To Build it yourself
 1. `clone this repo`
